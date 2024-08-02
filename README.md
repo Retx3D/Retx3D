@@ -5,13 +5,14 @@ I enjoy playing with CAD, Software & Electronics.
 
 ⚡ My projects of the moment:
 
-    🌱Making a Scara Robot that is easy to build with a majority of 3D printing parts. If it works, my goal is to make it an open source to be used for a lot of purposes: 
+    🌱Making a Scara Robot that is mostly 3D printed. If it works, my goal is to make it open source.
+    It could be used for: 
         * Cheap robot to build for educational purposes
         * The fun of having a robotic arm at home to work on Direct & Indirect kinematics model
         * Cheap pick & place robot
-        * A veeeeery cool 3DPrinter/reprap
+        * 3DPrinting
+        *...
 
-    🌱Others to be disclosed later on
 
 <!---
 Retx3D/Retx3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
